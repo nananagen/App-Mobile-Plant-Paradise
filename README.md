@@ -1,7 +1,7 @@
 ## 🌱 Challenge 3 - Plant Paradise
 This repository was specially created for the mobile app project of the Hybrid Mobile Journey React Native.
 
-### 🌿 Default Project Colors
+### 🌱 Default Project Colors
 ![DefaultColors](https://github.com/nananagen/Challenge3/telas_img/paleta.png)
 
 ### 🌱 First Screen
@@ -38,11 +38,11 @@ npm install -g expo-cli
 npm install expo 
 ```
 
-### 🌱 Git
+### 🌿 Git
 
 Clone the repository using the command:
 ```
-git clone https://github.com/nananagen/Challenge3.git
+git clone https://github.com/nananagen/Challenge3/DesafioTres.git
 ```
 
 Other commands that might help:
