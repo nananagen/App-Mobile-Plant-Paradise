@@ -32,7 +32,7 @@ npm install expo
 
 Clone the repository using the command:
 ```
-git clone https://github.com/nananagen/Challenge3/DesafioTres.git
+git clone https://github.com/nananagen/Challenge3.git
 ```
 
 Other commands that might help:
