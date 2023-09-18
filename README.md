@@ -1,23 +1,13 @@
 ## 🌱 Challenge 3 - Plant Paradise
 This repository was specially created for the mobile app project of the Hybrid Mobile Journey React Native.
 
-### 🌱 Default Project Colors
-![DefaultColors](https://github.com/nananagen/Challenge3/telas_img/paleta.png)
+### 🌱 Features
 
-### 🌱 First Screen
-  ![TELA1](https://github.com/nananagen/Challenge3/telas_img/tela1.jpg)
-### 🌱 Second Screen
-  ![TELA2](https://github.com/nananagen/Challenge3/telas_img/tela2.jpg)
-### 🌱 Third Screen
-  ![TELA3](https://github.com/nananagen/Challenge3/telas_img/tela3.jpg)
-### 🌱 Fourth Screen
-  ![TELA4](https://github.com/nananagen/Challenge3/telas_img/tela4.jpg)
-### 🌱 Fifth Screen
-  ![TELA5](https://github.com/nananagen/Challenge3/telas_img/tela5.jpg)
-### 🌱 Sixth Screen
-  ![TELA6](https://github.com/nananagen/Challenge3/telas_img/tela6.jpg)
-### 🌱 Seventh Screen
-  ![TELA7](https://github.com/nananagen/Challenge3/telas_img/tela7.jpg)
+🌻 Plant Paradise is a beautifully designed mobile application dedicated to plant enthusiasts and nature lovers. Whether you're an experienced gardener or just starting your green journey, this app offers a wealth of features and information to help you connect with the world of plants.
+
+🌱 Plant Catalog: Explore a vast catalog of plant species, from classic houseplants to exotic botanical wonders. Each plant is accompanied by detailed information, care instructions, and stunning photos to help you choose the perfect addition to your collection.
+
+🛒 Plant Shop: Looking for your next plant? Visit our integrated plant shop, where you can purchase seeds, pots, and gardening accessories—all from trusted suppliers.
 
 ### 🌿 Installation
 
