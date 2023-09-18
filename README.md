@@ -5,9 +5,9 @@ This repository was specially created for the mobile app project of the Hybrid M
 
 🌻 Plant Paradise is a beautifully designed mobile application dedicated to plant enthusiasts and nature lovers. Whether you're an experienced gardener or just starting your green journey, this app offers a wealth of features and information to help you connect with the world of plants.
 
-🌱 Plant Catalog: Explore a vast catalog of plant species, from classic houseplants to exotic botanical wonders. Each plant is accompanied by detailed information, care instructions, and stunning photos to help you choose the perfect addition to your collection.
+🌱 Plant Catalog: Explore a vast catalog of plant species, from classic houseplants to exotic botanical wonders. Each plant is accompanied by detailed information, and stunning photos to help you choose the perfect addition to your collection.
 
-🛒 Plant Shop: Looking for your next plant? Visit our integrated plant shop, where you can purchase seeds, pots, and gardening accessories—all from trusted suppliers.
+🛒 Plant Shop: Looking for your next plant? Visit our integrated plant shop, where you can purchase plants.
 
 ### 🌿 Installation
 
