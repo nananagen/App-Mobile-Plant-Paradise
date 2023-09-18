@@ -1,4 +1,4 @@
-## 🌱 Challenge 2 - Sprint 8 React Native Journey
+## 🌱 Challenge 3 - Plant Paradise
 This repository was specially created for the mobile app project of the Hybrid Mobile Journey React Native.
 
 ### 🌿 Default Project Colors
