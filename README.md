@@ -19,14 +19,6 @@ This repository was specially created for the mobile app project of the Hybrid M
 ### 🌱 Seventh Screen
   ![TELA7](https://github.com/nananagen/Challenge3/telas_img/tela7.jpg)
 
-### 🌿 Prerequisites
-
-* Node.js and NPM
-* React Native CLI or Expo CLI
-* Typescript
-* Axios
-* React Navigation
-
 ### 🌿 Installation
 
 **Node.js & NPM:** Visit the official [Node.js](https://nodejs.org/en/download/) website to download the latest version.
