@@ -99,7 +99,7 @@ export default function Home({ navigation }) {
                   dispatch(addOrRemoveFromFavorites(item));
                 }}
               >
-                <Octicons name="heart" size={24} color="black" />
+                <Octicons name="heart" size={15} color="black" />
               </TouchableOpacity>
               <View style={styles.imageContainer}>
                 <Image source={{ uri: item.image }} style={styles.image} />
@@ -178,21 +178,40 @@ export default function Home({ navigation }) {
 
         <View style={styles.verticalCenter}>
           {verticalItems.map((item) => (
-            <View style={styles.gridItem} key={item.id}>
-              <Image source={{ uri: item.image }} style={styles.verticalImage} />
-
-              <View style={styles.verticalContentWrapper}>
-                <View style={styles.verticalTitleContainer}>
-                  <Text style={styles.verticalTitle}>{item.title}</Text>
-                  <Text style={styles.verticalsubTitle}>${item.price}</Text>
-                </View>
-                <View>
-                  <TouchableOpacity style={styles.shopWrapper}>
-                    <Feather name="shopping-bag" size={15} color="#fff" />
-                  </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => navigation.navigate("Details", { data: item })}
+            >
+              <View style={styles.gridItem} key={item.id}>
+              <TouchableOpacity
+                style={styles.wishlisIcon}
+                onPress={() => {
+                  dispatch(addOrRemoveFromFavorites(item));
+                }}
+              >
+                <Octicons name="heart" size={15} color="black" />
+              </TouchableOpacity>
+                <Image
+                  source={{ uri: item.image }}
+                  style={styles.verticalImage}
+                />
+                <View style={styles.verticalContentWrapper}>
+                  <View style={styles.verticalTitleContainer}>
+                    <Text style={styles.verticalTitle}>{item.title}</Text>
+                    <Text style={styles.verticalsubTitle}>${item.price}</Text>
+                  </View>
+                  <View>
+                    <TouchableOpacity
+                      style={styles.shopWrapper}
+                      onPress={() => {
+                        dispatch(addItem(item));
+                      }}
+                    >
+                      <Feather name="shopping-bag" size={15} color="#fff" />
+                    </TouchableOpacity>
+                  </View>
                 </View>
               </View>
-            </View>
+            </TouchableOpacity>
           ))}
         </View>
       </ScrollView>
