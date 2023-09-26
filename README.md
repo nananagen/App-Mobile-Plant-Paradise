@@ -1,4 +1,4 @@
-## 🌱 Challenge 3 - Plant Paradise
+## 🌱 Plant Paradise
 This repository was specially created for the mobile app project of the Hybrid Mobile Journey React Native.
 
 ### 🌱 Features
